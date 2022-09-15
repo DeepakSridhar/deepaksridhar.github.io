@@ -1,0 +1,23 @@
+{
+  "site": {
+    "lang": "en",
+    "title": "Deepak Sridhar's World",
+    "titleDelim": " | ",
+    "description": "Learn about me",
+    "keywords": "website",
+    "url": "https://deepaksridhar.github.io/"
+  },
+  "modules": {
+    "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800%7COpen+Sans+Condensed:300&subset=latin,cyrillic",
+    "bodyJs": true,
+    "headJs": true,
+    "customCss": true,
+    "noscriptCss": false,
+    "twitterCard": false,
+    "openGraph": false
+  },
+  "links": {
+    "twitterCardCreator": "===twittercard-creator-account===",
+    "twitterCardAccount": "===twittercard-main-account==="
+  }
+}
