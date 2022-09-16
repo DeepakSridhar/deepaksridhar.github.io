@@ -152,7 +152,7 @@ h8 {
 	background: #fff;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #fff;
+	color: #000;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 	color: #FFFFFF;
@@ -1036,7 +1036,7 @@ display: inline-block;
 	font-size: 14px;
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-	border-color: #000; /*#A8A8A8;*/
+	border-color: #A8A8A8;
 }
 
 }
