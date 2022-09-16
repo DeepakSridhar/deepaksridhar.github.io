@@ -465,7 +465,7 @@ float: none;
 /*Intro Content*/
 #introText {
 	padding: 50px 0;
-	background: #000;
+	background: #fff;
 }
 #introText h1 {
 	font-size: 40px;
