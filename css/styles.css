@@ -12,15 +12,15 @@ body {
 	font-size: 14px;
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
-	background: #000;
+	background: #fff;
 }
 ::selection {
-	color: #000;
+	color: #fff;
 	background: #5887FF;
 }
 
 ::-moz-selection {
- color: #000;
+ color: #fff;
  background: #5887FF;
 }
 p {
@@ -335,14 +335,14 @@ text-align:center;
 }
 .banner-content .social-icons a{
 text-align: center;
-border: 1px solid #fff;
+border: 1px solid #000;
 border-radius: 90px !important;
 height: 52px;
 line-height: 60px;
 padding: 0px;
 width: 52px;
 display: inline-block;
-color:#fff;
+color:#000;
 margin:0 6px;
 }
 .banner-content .social-icons a i{
@@ -358,7 +358,7 @@ background:#5887FF;
 color:#fff;
 }
 .banner-content .hireMe{
-background: #fff;
+background: #000;
 clear: right;
 margin: 0 auto;
 display: block;
@@ -397,7 +397,7 @@ float: none;
 }
 .heroText h2 {
 	border: none;
-	color: #FFF;
+	color: #000;
 	text-transform: uppercase;
 	line-height: 50px;
 	padding-bottom: 0;
@@ -407,7 +407,7 @@ float: none;
 }
 .heroText h2 span {
 	border: none;
-	color: #FFF;
+	color: #000;
 	text-transform: uppercase;
 	line-height: 50px;
 	padding-bottom: 0;
