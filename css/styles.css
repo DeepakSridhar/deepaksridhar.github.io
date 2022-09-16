@@ -12,15 +12,15 @@ body {
 	font-size: 14px;
 	font-family: 'Open Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
-	background: #fff;
+	background: #000;
 }
 ::selection {
-	color: #fff;
+	color: #000;
 	background: #5887FF;
 }
 
 ::-moz-selection {
- color: #fff;
+ color: #000;
  background: #5887FF;
 }
 p {
@@ -113,6 +113,13 @@ h2 {
 	margin: 0;
 	padding-bottom: 16px;
 	font-variant: small-caps;
+}
+h8 {
+	font-size: 40px;
+	margin: 0;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	font-variant: normal;
 }
 /* Header 
 ----------------------------------------------*/
