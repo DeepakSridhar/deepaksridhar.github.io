@@ -1,0 +1,91 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Deepak Sridhar
+    # - name: Date of Birth
+      # value: 14th March 1879
+    - name: Languages
+      value: English, Tamil, Hindi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of California, San Diego, US
+      year: 2023-now
+      description:
+        - title: Generative Modeling
+          contents:
+            - Diffusion Models
+            - Inversion
+        - title: Multimodal sensing and learning for 3D handpose estimation
+          contents:
+            - 3D handpose under occlusion with multimodal data using ultrasound sensor and RGB image
+            - Hand holding objects
+    - title: M. Eng
+      institution: McGill University, Montreal, Canada
+      year: 2016-2018
+      description:
+        - title: Thesis
+          contents:
+            - Non-linear State and Parameter Estimation for Linear Time Varying Systems
+    - title: B.Tech
+      institution: NITT, Trichy, India
+      year: 2012-2016
+      description:
+        - title: Thesis
+          contents:
+            - Remote Gesture Controlled Robotic Arm
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Computer Vision Researcher
+      institution: Huawei Technologies Canada Co. Ltd.
+      year: 2018 - 2022
+      description:
+        - Research in Video Understanding, Hand Detection,Classification, 2D/3D Pose Estimation and other Computer Vision problems. Model Compression and shipping ML/DL models to production with better speed-accuracy trade-off.
+        - title: Products built
+          contents:
+            - Spotlight Reel
+            - Smart Gestures for TV
+            - Smart Lamp
+        - title: Action Recognition and Localization
+          contents:
+            - Advance SOTA for action localization in videos
+            - Improve Action recognition with novel discriminative losses
+ 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Jacobs Fellow
+    - year: 2022
+      items: 
+        - Rising Star Award at Huawei Canada
+    - year: 2021
+      items: 
+        - Outstanding Employee of the Year Award at Huawei Canada
+    - year: 2016
+      items: 
+        - Mitacs Globalink Graduate Fellowship
+        - Graduate Excellence Fellowship
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Generative Modeling.
+      items: 
+        - Diffusion Models (Foundation Models)
+        - Inversion
+    - title: Efficient Machine Learning.
+      items:
+        - Classification
+        - Detection
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hiking, Exploring scenic landscapes, etc.
