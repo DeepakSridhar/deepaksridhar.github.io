@@ -8,3 +8,4 @@ nav_order: 5
 ---
 
 ECE 271A - Statistical Learning I.
+ECSE 500 - Math Foundation of Systems
