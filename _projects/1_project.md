@@ -5,6 +5,11 @@ description: Work on 2D/3D diffusion model framework that offers high fidelity, 
 img: assets/img/MultiModalDiffusion.png
 importance: 1
 category: work
+url: https://deepaksridhar.github.io/factorgraphdiffusion.github.io/
 ---
 
-Work under progress
+<div class="row">
+    <div class="col-sm">
+        <a href="https://deepaksridhar.github.io/factorgraphdiffusion.github.io/">Factor Graph Diffusion Models for high fidelity, consistent and controllable image synthesis</a>
+    </div>
+</div>
