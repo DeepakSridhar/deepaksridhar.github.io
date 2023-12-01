@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://deepaksridhar.github.io//sitemap.xml
+Sitemap: https://deepaksridhar.github.io/about//sitemap.xml
