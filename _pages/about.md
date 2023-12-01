@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 subtitle: PhD Student, Computer Vision, Generative Modeling
 
 profile:
