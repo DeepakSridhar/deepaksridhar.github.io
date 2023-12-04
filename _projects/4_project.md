@@ -2,7 +2,7 @@
 layout: page
 title: Scalable Channel Mixer for Vision Transformers
 description: Generic channel mixer to scale all ViTs
-img: assets/img/CARMixer_and_Inference.png
+img: assets/img/arch.png
 importance: 1
 category: work
 ---
