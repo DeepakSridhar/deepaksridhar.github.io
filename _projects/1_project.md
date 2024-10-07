@@ -7,6 +7,9 @@ importance: 1
 category: work
 url: https://deepaksridhar.github.io/factorgraphdiffusion.github.io/
 ---
+NeurIPS 2024
+
+We present a novel Factor Graph Diffusion Model (FG-DM) framework for modeling the joint distribution of images and conditioning variables (such as segmentation, depth, normal and sketch masks) for improved prompt consistency, high fidelity, and controllable image synthesis.
 
 <div class="row">
     <div class="col-sm">
