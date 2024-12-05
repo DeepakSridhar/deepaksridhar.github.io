@@ -15,10 +15,11 @@
       institution: University of California, San Diego, US
       year: 2022-now
       description:
-        - title: Generative Modeling
+        - title: Multimodal Generative Modeling
           contents:
             - Diffusion Models
             - Inversion
+            - Editing
         - title: Multimodal sensing and learning for 3D handpose estimation
           contents:
             - 3D handpose under occlusion with multimodal data using ultrasound sensor and RGB image
