@@ -59,9 +59,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Outstanding Reviewer Award at ECCV 2024
+    - year: 2023
+      items: 
+        - Graduate Student Service Award by ECE department at UCSD
     - year: 2022
       items: 
-        - Jacobs Fellow
+        - Jacobs Fellow (Highest Recognition in ECE department at UCSD)
     - year: 2022
       items: 
         - Rising Star Award at Huawei Canada
