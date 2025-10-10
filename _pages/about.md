@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fourth year PhD student at UCSD specializing in Computer Vision, advised by Prof. Nuno Vasconcelos. My research focuses on multimodal generative AI, with interests spanning multimodal generation, editing, and understanding. I am also interested in efficient personalization methods.
+I am a fourth year PhD student at UC San Diego specializing in Computer Vision, advised by Prof. Nuno Vasconcelos. My research focuses on multimodal generative AI, with particular interests in multimodal generation, editing, and understanding, as well as efficient personalization methods.
 
-During my PhD, I have worked on an efficient diffusion model framework ([project page](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/), NeurIPS’24), efficient prompting techniques ([project page](https://deepaksridhar.github.io/promptsliders.github.io/), ECCV’24) and efficient video reasoning (under review) that address problems such as better prompt compliance, controllability, modularity, and editing for multi-modal 
-generation. Prior to my PhD, I have also worked on fundamental problems such as efficient image classification, detection and action 
-recognition.
+During my PhD, I have developed an efficient diffusion model framework ([project page](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/), NeurIPS’24), explored efficient prompting techniques ([project page](https://deepaksridhar.github.io/promptsliders.github.io/), ECCV’24) and worked on efficient video reasoning (under review) My work addresses challenges such as improving prompt compliance, controllability, modularity, and editing in multimodal generation. Prior to my PhD, I have also worked on fundamental problems in computer vision such as efficient image classification, object detection, action recognition and localization.
 <!-- My recent work is an efficient diffusion model framework ([link](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)) that offers high prompt compliance, controllability, modularity, editing and applicability to multimodal content generation (video, audio and 3D), understanding and editing. Previously, I have worked on some fundamental vision problems such as efficient classification and detection in images and videos. -->
 
 Outside of Research, I love to go on hiking and exploring the nature. I also love to participate in outdoor adventures. 
