@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Paper on "Awarded the Qualcomm Innovation Fellowship for the year 2025! :sparkles:.
+Awarded the "Qualcomm Innovation Fellowship 2025" for our proposal on Meta-Prompting! :sparkles:.
 
