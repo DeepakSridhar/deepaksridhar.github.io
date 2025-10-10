@@ -15,11 +15,16 @@
       institution: University of California, San Diego, US
       year: 2022-now
       description:
-        - title: Multimodal Generative Modeling
+        - title: Multimodal Understanding
           contents:
-            - Diffusion Models
+            - Efficient Video Reasoning with Large Multimodal Models
+        - title: Multimodal Generation
+          contents:
+            - Efficient Diffusion Models
             - Inversion
             - Editing
+            - Modularity
+            - Meta-Prompting
         - title: Multimodal sensing and learning for 3D handpose estimation
           contents:
             - 3D handpose under occlusion with multimodal data using ultrasound sensor and RGB image
